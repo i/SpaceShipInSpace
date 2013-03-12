@@ -1,4 +1,5 @@
 require 'gosu'
+
 require './player.rb'
 require './star.rb'
 require './ZOrder.rb'
